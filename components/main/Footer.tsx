@@ -15,7 +15,7 @@ const Footer = () => {
           className="text-[40px] font-medium text-center text-gray-200"
         >
           
-          <span className="text-transparent bg-clip-text bg-gradient-to-r from-purple-500 to-cyan-500 py-3 ">
+          <span className="text-transparent bg-clip-text bg-gradient-to-r from-purple-500 to-cyan-500 py-3  pt-5">
             {" "}
            CONTACT ME 🕿{" "}
           </span>
