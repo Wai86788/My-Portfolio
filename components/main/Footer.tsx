@@ -29,7 +29,7 @@ const Footer = () => {
           
         </div>
        
-        <div className="Welcome-box px-[30px] py-[160px] z-[30] brder my-[2px] border-[#230d648b]  opacity- flex flex-col justify-center items-center">
+        <div className="Welcome-box px-[30px] py-[120px] z-[30] brder my-[2px] border-[#230d648b]  opacity- flex flex-col justify-center items-center">
           <h1 className="Welcome-text text-[20px]">
             ✉ EMAIL:wallabhisaxena234@gmail.com 
          </h1>
