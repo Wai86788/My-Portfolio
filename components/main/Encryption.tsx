@@ -14,10 +14,7 @@ const Encryption = () => {
           className="text-[40px] font-medium text-center text-gray-200"
         >
           
-          <span className="text-transparent bg-clip-text bg-gradient-to-r from-purple-500 to-cyan-500 py-3 ">
-            {" "}
-            ABOUT ME{" "}
-          </span>
+          
           
         </motion.div>
       </div>
