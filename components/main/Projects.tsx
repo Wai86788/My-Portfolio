@@ -40,7 +40,7 @@ const Projects = () => {
           description="Severals mini projects build using ML . Regression model , classification model , CNN,ANN and few more "
         />
         <ProjectCard
-          src="/plant.png"
+          src="/Plant.png"
           title="Plant Dieseas"
           description=" Deep learning ML techniques  detect plant diseases by extracting features from images, such as color, texture, and shape "
         />
